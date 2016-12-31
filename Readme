@@ -1,1 +1,5 @@
 Engeller Bulunan 5x5 Matriste Hedefe Olan Uzaklığın Bulunması.
+![](https://github.com/otabakoglu/DistancetoTarget/blob/master/Taslak.png)
+
+Algoritma:
+Hedef Noktanın sağ, sol, yukarı, aşağı ve çaprazlarına bakarak 1 er, 2 şer artım şeklinde uzaklıkları hesaplar. Hedeften sonra Hede Çevresinin sağ, sol, yukarı, aşağı ve çaprazlarına bakarak değer verir.
